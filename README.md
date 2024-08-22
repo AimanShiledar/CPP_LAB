@@ -1,0 +1,1 @@
+This repository explains how to determine if a number is positive or negative in C++. The most common approach is using an if-else statement to check if the number is greater than zero (positive), less than zero (negative), or equal to zero
